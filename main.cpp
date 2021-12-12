@@ -6,6 +6,7 @@
 #include "Bear.h"
 #include <cstring>
 
+
 int main(int argc, char* argv[]) {
     if (argc != 3) {
         std::cout << "incorrect command line, please enter correct parameters(-f filepath, -n <num of bees>)";
