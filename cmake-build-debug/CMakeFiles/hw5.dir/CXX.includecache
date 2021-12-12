@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/University_CXX/University_Computing_Architecture/hometasks/hw5/Bear.h
+hive.h
+D:/University_CXX/University_Computing_Architecture/hometasks/hw5/hive.h
+iostream
+-
+mutex
+-
+
+D:/University_CXX/University_Computing_Architecture/hometasks/hw5/Bee.h
+rnd.h
+D:/University_CXX/University_Computing_Architecture/hometasks/hw5/rnd.h
+hive.h
+D:/University_CXX/University_Computing_Architecture/hometasks/hw5/hive.h
+thread
+-
+mutex
+-
+
+D:/University_CXX/University_Computing_Architecture/hometasks/hw5/hive.h
+
+D:/University_CXX/University_Computing_Architecture/hometasks/hw5/main.cpp
+iostream
+-
+fstream
+-
+hive.h
+D:/University_CXX/University_Computing_Architecture/hometasks/hw5/hive.h
+thread
+-
+Bee.h
+D:/University_CXX/University_Computing_Architecture/hometasks/hw5/Bee.h
+Bear.h
+D:/University_CXX/University_Computing_Architecture/hometasks/hw5/Bear.h
+cstring
+-
+
+D:/University_CXX/University_Computing_Architecture/hometasks/hw5/rnd.h
+
